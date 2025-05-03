@@ -1,4 +1,4 @@
-Es un software basado en un contexto médico, que mediante una UI permite la gestión de usuarios a través una base de datos MySql. Adicionalmente integra el algoritmo ShellSort para ordenar una colección de datos.  
+Es un software basado en un contexto médico, que mediante una UI permite la gestión de usuarios a través de una base de datos MySql. Adicionalmente integra el algoritmo ShellSort para ordenar una colección de datos.  
 
 # SoftwareMedico-MySql 
 El usuario interactúa con una base de datos mediante una interfaz gráfica que cuenta con dos apartados. La pantalla principal filtra todos los doctores registrados en la base de datos que a su vez se pueden gestionar mediante CRUD, sin necesidad de usar directamente la base de datos para modificar los registros. Adicionalmente se dispone de la pantalla del ordenamiento ShellSort,  que básicamente encapsula los nombres de los doctores en una colección de datos para posteriormente organizarlos por orden alfabético, el usuario tiene la libertad de visualizar secuencialmente el proceso. 
